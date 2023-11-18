@@ -6,13 +6,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
+<h4 align="left">Visitor's count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>
+
+
 </div>
 
 - 🌱 I’m currently learning ** DevOp tools | PHP | Jenkins | Azure **
 
 - 💬 Ask me about ** C++ , HTML , Java , .NET **
 
-- 📫 How to reach me -[ Telegram](https://t.me/kunalshah017)
+- 📫 How to reach me -[ Telegram](https://t.me/kunalshah01)
 
 <hr>
 
@@ -55,150 +59,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <hr>
 <h3 align="center">My Trophies 🏆</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kunalshah017&theme=discord&column=7&no-bg=true&margin-w=15&margin-h=10" width=90%>
+<img src="https://github-profile-trophy.vercel.app/?username=JugalBhagat&theme=discord&column=7&no-bg=true&margin-w=15&margin-h=10" width=90%>
 </div>
 <hr>
-<h3 align="left">Worlds Best Human Beings :<br> (my followers 🤝)</h3
-<div align="middle">
-<!-- FOLLOWER-LIST:START -->
-<table>
-  <tr>
 
-<td align="center">
-     <a href="https://github.com/VishalxRana">
-       <img src="https://avatars.githubusercontent.com/u/32135511?v=4" width="100px;" alt="VishalxRana"/>
-     </a>
-     <br />
-     <a href="https://github.com/VishalxRana">VishalxRana</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/KRIKU05">
-       <img src="https://avatars.githubusercontent.com/u/70624893?v=4" width="100px;" alt="KRIKU05"/>
-     </a>
-     <br />
-     <a href="https://github.com/KRIKU05">KRIKU05</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/theavitw">
-       <img src="https://avatars.githubusercontent.com/u/75948358?v=4" width="100px;" alt="theavitw"/>
-     </a>
-     <br />
-     <a href="https://github.com/theavitw">theavitw</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/MannJadwani">
-       <img src="https://avatars.githubusercontent.com/u/89898145?v=4" width="100px;" alt="MannJadwani"/>
-     </a>
-     <br />
-     <a href="https://github.com/MannJadwani">MannJadwani</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/NisargPipaliya">
-       <img src="https://avatars.githubusercontent.com/u/96529542?v=4" width="100px;" alt="NisargPipaliya"/>
-     </a>
-     <br />
-     <a href="https://github.com/NisargPipaliya">NisargPipaliya</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/MoinMN">
-       <img src="https://avatars.githubusercontent.com/u/100254727?v=4" width="100px;" alt="MoinMN"/>
-     </a>
-     <br />
-     <a href="https://github.com/MoinMN">MoinMN</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/FURIOUSCHAMP007">
-       <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
-     </a>
-     <br />
-     <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
-  </td>
-		  </tr>
-  <tr>
-
-<td align="center">
-     <a href="https://github.com/SetuBhatt1">
-       <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
-     </a>
-     <br />
-     <a href="https://github.com/SetuBhatt1">SetuBhatt1</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/snowflakke">
-       <img src="https://avatars.githubusercontent.com/u/115937402?v=4" width="100px;" alt="snowflakke"/>
-     </a>
-     <br />
-     <a href="https://github.com/snowflakke">snowflakke</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/Aashu-shinde-012">
-       <img src="https://avatars.githubusercontent.com/u/118661241?v=4" width="100px;" alt="Aashu-shinde-012"/>
-     </a>
-     <br />
-     <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/Tanvimisar">
-       <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
-     </a>
-     <br />
-     <a href="https://github.com/Tanvimisar">Tanvimisar</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/shiffsyedd">
-       <img src="https://avatars.githubusercontent.com/u/142430206?v=4" width="100px;" alt="shiffsyedd"/>
-     </a>
-     <br />
-     <a href="https://github.com/shiffsyedd">shiffsyedd</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/BunnyKet">
-       <img src="https://avatars.githubusercontent.com/u/143835059?v=4" width="100px;" alt="BunnyKet"/>
-     </a>
-     <br />
-     <a href="https://github.com/BunnyKet">BunnyKet</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/ananya-dhiman">
-       <img src="https://avatars.githubusercontent.com/u/145692647?v=4" width="100px;" alt="ananya-dhiman"/>
-     </a>
-     <br />
-     <a href="https://github.com/ananya-dhiman">ananya-dhiman</a>
-  </td>
-		  </tr>
-  <tr>
-
-<td align="center">
-     <a href="https://github.com/SW42-kj">
-       <img src="https://avatars.githubusercontent.com/u/145698916?v=4" width="100px;" alt="SW42-kj"/>
-     </a>
-     <br />
-     <a href="https://github.com/SW42-kj">SW42-kj</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/aashutosh1234567">
-       <img src="https://avatars.githubusercontent.com/u/149098653?v=4" width="100px;" alt="aashutosh1234567"/>
-     </a>
-     <br />
-     <a href="https://github.com/aashutosh1234567">aashutosh1234567</a>
-  </td>
-		  </tr>
-</table>
-<!-- FOLLOWER-LIST:END -->
-</div>
 <hr> 
 
 <h3 align="left">📊 Stats :</h3>
