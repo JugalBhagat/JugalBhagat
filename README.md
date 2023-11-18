@@ -64,8 +64,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <hr>
 
-
-<hr>
 <h3 align="left">🐍 Contributions :</h3>
 
 <div align="center">
