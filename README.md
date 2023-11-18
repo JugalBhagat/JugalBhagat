@@ -61,51 +61,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JugalBhagat&theme=discord&column=7&no-bg=true&margin-w=15&margin-h=10" width=90%>
 </div>
-<hr>
 
-<hr> 
-
-<h3 align="left">📊 Stats :</h3>
-<p align="center">
-<a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=kunalshah017&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p align='center'>		
-<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
 <hr>
 
 
-<img src="https://user-images.githubusercontent.com/95049390/235308822-4d55a35d-87f5-41d2-b9b9-94bd2d8d63ef.gif"  align="right" width="350"/>
-
-<h3 align="left">🗓 Weekly Coding Stats :</h3>
-
-
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 March 2023 - To: 15 November 2023
-
-Total Time: 87 hrs 55 mins
-
-C                20 hrs 21 mins  >>>>>>-------------------   23.15 %
-C++              17 hrs 55 mins  >>>>>--------------------   20.39 %
-JavaScript       16 hrs 4 mins   >>>>>--------------------   18.29 %
-CSS              15 hrs 13 mins  >>>>---------------------   17.31 %
-Markdown         5 hrs 33 mins   >>-----------------------   06.32 %
-HTML             4 hrs 40 mins   >------------------------   05.32 %
-Text             4 hrs 7 mins    >------------------------   04.69 %
-JSON             1 hr 13 mins    -------------------------   01.39 %
-Assembly         32 mins         -------------------------   00.62 %
-YAML             29 mins         -------------------------   00.56 %
-```
-
-<!--END_SECTION:waka-->
-</p>
-
-<!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
-<br>
-<br>
 <hr>
 <h3 align="left">🐍 Contributions :</h3>
 
