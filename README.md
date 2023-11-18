@@ -6,27 +6,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
-
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{kunalshah017}/count.svg" alt="KunalShah :: Visitor's Count" /></p>
-
-<!--<a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>-->
-<a href="https://kunal-shah.vercel.app/">
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Sry%21%20Offline&label=My%20Website&up_color=green&up_message=UP%20%26%20Running&url=https%3A%2F%2Fkunal-shah.vercel.app%2F">
-</a>
-
-<a href="https://twitter.com/kunalshah017"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kunalshah017?logo=twitter&style=plastic"></a>
-
-<div>
-	<p>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>
-&nbsp Join the Vibe 🎶
-  </p>
-</div>
-<div align="left">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
-</a>
 </div>
 
 - 🌱 I’m currently learning ** DevOp tools | PHP | Jenkins | Azure **
@@ -37,29 +16,6 @@
 
 <hr>
 
-<h3 align="left">✨ My Latest Blogs and Ebooks</h3>
-<a href="https://kunalshah017.gumroad.com/l/dsa-made-easy">
-<img align="left" height="340" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/cover.png"/>
-</a>
-<div algin="right">
-<p align="left">
-	<h3 align="center">✔ Check it Out !! - <a href="https://kunalshah017.gumroad.com/l/dsa-made-easy">Here</a>.</h3>
-I have made an ebook covering topics of DSA learned by Highschooler.The Book is still incomplete and I will update it as I move further in the topic.<br>
-
-As I am learning this topic from a basic to advance, the book also follows the similar learning curve and tried to keep the explanations given by me in book as simple as possible.<br>
-
-You can keep the track of updates by the version number on cover page of the book currently it is - 1.23, will be releasing 2.23 with more interesting stuff soon<br>
-
-You can get source codes use in this book from my Github Repository <a href="https://github.com/kunalshah017/Learning-CPP">Learning CPP</a><br>
-
-
-Thank You,<br>
-Made with ❤ by Kunal Shah (<a href="github.com/kunalshah017">kunalshah017</a>)
-</p>
-</div>
-<br>
-<br>
-<hr>
 
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
