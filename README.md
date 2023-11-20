@@ -46,13 +46,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="30" height="30" /> </a>
 &nbsp <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="30" height="30" /> </a>
-	
-</p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fc_760.html&psig=AOvVaw0ZPVIq3hV0IfN-MSSAEQan&ust=1700564036619000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj15O200oIDFQAAAAAdAAAAABAE" alt="C#" width="40" height="40" /> </a>
-
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 	
+</p>
 <hr>
 <h3 align="center">My Trophies 🏆</h3>
 <div align="center">
