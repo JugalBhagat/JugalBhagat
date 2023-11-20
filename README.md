@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 	
 </p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-&nbsp <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.linkpicture.com/q/c-sharp-c.svg" alt="C#" width="40" height="40" /> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fc_760.html&psig=AOvVaw0ZPVIq3hV0IfN-MSSAEQan&ust=1700564036619000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj15O200oIDFQAAAAAdAAAAABAE" alt="C#" width="40" height="40" /> </a>
 
 
 	
