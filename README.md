@@ -1,78 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/kunalshah017)
-<style>
-	body{
-    background-color: black;
-    color: rgb(15, 182, 15);
 
-    
-    display: flex;
-    min-height: 100vh;
-    align-items: center;
-    justify-content: center;
-    font-size: 40px;
-    margin: 0;
-}
-.sty{
-    font-family: 'Courier New', Courier, monospace;
-}
-.sty1{
-    font-family: 'Times New Roman', Times, serif;
-}
-.sty2{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-.sty3{
-    font-family: 'Arial Narrow Bold', sans-serif;
-}
-.sty4{
-    font-family: monospace
-}
-.sty5{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-}
+<h1 align="center">👋, I'm Jugal Bhagat</h1>
 
-.sty6{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.sty7{
-    font-family: Arial, Helvetica, sans-serif
-}
-.sty8{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-}
-</style>
- <h1 id="title" class="sty">Hello World</h1>
- <script>
-	 
-    var s=document.getElementById("title");
-
-    function changee()
-    {
-        if(s.className=="sty")
-            s.className="sty1";
-        else if(s.className=="sty1")
-            s.className="sty2";
-        else if(s.className=="sty2")
-            s.className="sty3";
-        else if(s.className=="sty3")
-            s.className="sty4";
-        else if(s.className=="sty4")
-            s.className="sty5";
-        else if(s.className=="sty6")
-            s.className="sty7";
-        else if(s.className=="sty7")
-            s.className="sty8";
-        else
-            s.className="sty";
-    }
-    setInterval(changee,300);
-
-</script>
-
-
-<h1 align="center">Hi 👋, I'm Jugal Bhagat</h1>
-
-<h3 align="center">Welcome to my Github</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
@@ -84,9 +14,8 @@
 
 - 🌱 I’m currently learning ** DevOp tools | PHP | Jenkins | Azure **
 
-- 💬 Ask me about ** C++ , HTML , Java , .NET **
+- 💬 Ask me about  C++ , HTML , Java , .NET , Android , Python , Data Structure
 
-- 📫 How to reach me -[ Telegram](https://t.me/kunalshah01)
 
 <hr>
 
