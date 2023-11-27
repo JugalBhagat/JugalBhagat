@@ -22,8 +22,8 @@
 
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jugal-bhagat-017017jsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal shah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jugal_017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal._.shah._.017" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jugal-bhagat-017017jsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jugal Bhagat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jugal_017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jugal_017" height="30" width="40" /></a>
 <!-- <a href="https://discord.com/users/892674083601416192"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40"/></a>
  -->
 </p>
