@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <hr>
 <h3 align="center">My Trophies 🏆</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JugalBhagat&theme=discord&column=7&no-bg=true&margin-w=15&margin-h=10" width=90%>
+<img src="https://github-profile-trophy.vercel.app/?username=JugalBhagat&theme=discord&column=5&no-bg=true&margin-w=15&margin-h=10" width=90%>
 </div>
 
 <hr>
