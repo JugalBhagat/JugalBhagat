@@ -12,7 +12,7 @@
 
 </div>
 
-- 🌱 I’m currently learning ** DevOp tools | PHP | Jenkins | Azure **
+- 🌱 I’m currently learning ** ReactJS | CodeIgnitor | Azure **
 
 - 💬 Ask me about  C++ , HTML , Java , .NET , Android , Python , Data Structure
 
