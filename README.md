@@ -57,7 +57,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/> </a>
   
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png" alt="php" width="55" height="40"/> </a>
   
 	
 </p>
