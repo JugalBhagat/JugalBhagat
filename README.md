@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="30" height="30" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="30" height="30" /> </a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=android+studio+logo&tbm=isch&ved=2ahUKEwj6neWW_IWFAxXuqGMGHTY6AgEQ2-cCegQIABAA&oq=android+studio+logo&gs_lp=EgNpbWciE2FuZHJvaWQgc3R1ZGlvIGxvZ28yChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI4hBQAFgAcAB4AJABAJgB7wKgAe8CqgEDMy0xuAEDyAEAigILZ3dzLXdpei1pbWeIBgE&sclient=img&ei=aXr8ZbrFEu7RjuMPtvSICA&bih=703&biw=1495#imgrc=nFFDcUkKXV3KdM" alt="Android" width="60" height="60"/> </a>
+ <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2018/01/Android_Studio_logo_icon.png" alt="Android" width="60" height="60"/> </a>
 	
 </p>
 <hr>
