@@ -53,7 +53,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   
   <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text-thumbnail.png" alt="asp.net" width="40" height="40"/> </a>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180530/gbf/kisspng-github-repository-git-project-commit-5b0f2dd1efb513.5784673515277214259819.jpg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="40" height="40"/> </a>
   
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="github" width="40" height="40"/> </a>
   
