@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF40ZPja5K3pR2f1yR4wj4rqrCRy1EsBQ7rCxFCoYlbwfMQBz9f4OKcBMjejLrBiro4kY&usqp=CAU" width="40" height="40"/> </a>
 	
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="" alt="sql" width="40" height="40"/> </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> </a>
   
   <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text-thumbnail.png" alt="asp.net" width="40" height="40"/> </a>
   
