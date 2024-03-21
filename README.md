@@ -47,15 +47,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF40ZPja5K3pR2f1yR4wj4rqrCRy1EsBQ7rCxFCoYlbwfMQBz9f4OKcBMjejLrBiro4kY&usqp=CAU" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" alt="Java" width="40" height="40"/> </a>
 	
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>
   
-  <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="asp.net" width="40" height="40"/> </a>
+  <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="" alt="asp.net" width="40" height="40"/> </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="40" height="40"/> </a>
   
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:Octicons-mark-github.svg" alt="github" width="40" height="40"/> </a>
   
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180519/zqq/kisspng-php-server-side-scripting-yii-web-application-scri-5b00d886698cb9.3580042815267820864324.jpg" alt="php" width="40" height="40"/> </a>
   
