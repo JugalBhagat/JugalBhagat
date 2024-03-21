@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/483px-Java_Logo.svg.png?20061227215918" alt="Java" width="40" height="20"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/483px-Java_Logo.svg.png?20061227215918" alt="Java" width="25" height="40"/> </a>
 	
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>
   
