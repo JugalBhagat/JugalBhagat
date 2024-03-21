@@ -40,13 +40,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="30" height="30" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="30" height="30" /> </a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/279/249/png-clipart-java-logo-programming-language-java-plum-miscellaneous-text-thumbnail.png" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF40ZPja5K3pR2f1yR4wj4rqrCRy1EsBQ7rCxFCoYlbwfMQBz9f4OKcBMjejLrBiro4kY&usqp=CAU" width="40" height="40"/> </a>
 	
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="" alt="sql" width="40" height="40"/> </a>
+  
   <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text-thumbnail.png" alt="asp.net" width="40" height="40"/> </a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180530/gbf/kisspng-github-repository-git-project-commit-5b0f2dd1efb513.5784673515277214259819.jpg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="" alt="php" width="40" height="40"/> </a>
+  
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="github" width="40" height="40"/> </a>
+  
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180519/zqq/kisspng-php-server-side-scripting-yii-web-application-scri-5b00d886698cb9.3580042815267820864324.jpg" alt="php" width="40" height="40"/> </a>
   
 	
 </p>
