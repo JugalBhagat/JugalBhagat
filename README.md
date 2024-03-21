@@ -39,7 +39,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="30" height="30" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="30" height="30" /> </a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2018/01/Android_Studio_logo_icon.png" alt="Android" width="60" height="60"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/279/249/png-clipart-java-logo-programming-language-java-plum-miscellaneous-text-thumbnail.png" alt="Java" width="40" height="40"/> </a>
+	
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.asp.net/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" alt="asp.net" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="" alt="php" width="40" height="40"/> </a>
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/> </a>
+  
 	
 </p>
 <hr>
