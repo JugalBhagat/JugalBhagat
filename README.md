@@ -8,7 +8,7 @@
 <!--<h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>-->
 
-<h4 align="left">Project's count 👀</h4>
+<h4 align="left">Project's count 👀 : 6</h4>
 <p align="left">6</p>
 
 </div>
