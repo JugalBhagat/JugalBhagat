@@ -9,7 +9,6 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>-->
 
 <h4 align="left">Project's count 👀 : 6</h4>
-<p align="left">6</p>
 
 </div>
 
