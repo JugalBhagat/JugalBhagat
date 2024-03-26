@@ -5,9 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>
+<!--<h4 align="left">Visitor's count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>-->
 
+<h4 align="left">Project's count 👀</h4>
+<p align="left">6</p>
 
 </div>
 
