@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ** ReactJS | CodeIgnitor | Azure **
 
-- 💬 Ask me about  C++ , HTML , Java , .NET , Android , Python , Data Structure
+- 💬 Ask me about  C++ , ASP.NET , Java , Android , Python , Data Structure , SQL
 
 
 <hr>
