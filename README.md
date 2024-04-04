@@ -12,7 +12,7 @@
 
 </div>
 
-- 🌱 I’m currently learning ** ReactJS | CodeIgnitor | Azure **
+- 🌱 I’m currently learning ** ReactJs | ASP.NET MVC | Azure **
 
 - 💬 Ask me about  C++ , ASP.NET , Java , Android , Python , Data Structure , SQL
 
