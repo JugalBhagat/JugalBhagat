@@ -12,10 +12,9 @@
 
 </div>
 
-- 🌱 I’m currently learning ** ReactJs | ExpressJs | DevOps **
+- 🌱 I’m currently learning ** Bun | GenAI | DevOps **
 
-- 💬 Ask me about  ASP.NET, Android, Python, Data Structure, SQL, PHP
-
+- 💬 Ask me about  ASP.NET, Android, Python, Data Structure, SQL, ExperssJs, ReactJs
 
 <hr>
 
