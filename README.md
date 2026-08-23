@@ -3,7 +3,11 @@
 
 <h3 align="center">Welcome to my GitHub</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt=""https://github.com/JugalBhagat/JugalBhagat/blob/main/dark_mode.svg src="dark_mode.svg" />
+</picture>
 
 <!--<h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{JugalBhagat}/count.svg" alt="JugalBhagat :: Visitor's Count" /></p>-->
